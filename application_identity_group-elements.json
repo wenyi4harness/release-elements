@@ -1,0 +1,404 @@
+{
+  "items": [
+    {
+      "id": "application_identity_group_1",
+      "name": "Application Identity Group 1"
+    },
+    {
+      "id": "application_identity_group_2",
+      "name": "Application Identity Group 2"
+    },
+    {
+      "id": "application_identity_group_3",
+      "name": "Application Identity Group 3"
+    },
+    {
+      "id": "application_identity_group_4",
+      "name": "Application Identity Group 4"
+    },
+    {
+      "id": "application_identity_group_5",
+      "name": "Application Identity Group 5"
+    },
+    {
+      "id": "application_identity_group_6",
+      "name": "Application Identity Group 6"
+    },
+    {
+      "id": "application_identity_group_7",
+      "name": "Application Identity Group 7"
+    },
+    {
+      "id": "application_identity_group_8",
+      "name": "Application Identity Group 8"
+    },
+    {
+      "id": "application_identity_group_9",
+      "name": "Application Identity Group 9"
+    },
+    {
+      "id": "application_identity_group_10",
+      "name": "Application Identity Group 10"
+    },
+    {
+      "id": "application_identity_group_11",
+      "name": "Application Identity Group 11"
+    },
+    {
+      "id": "application_identity_group_12",
+      "name": "Application Identity Group 12"
+    },
+    {
+      "id": "application_identity_group_13",
+      "name": "Application Identity Group 13"
+    },
+    {
+      "id": "application_identity_group_14",
+      "name": "Application Identity Group 14"
+    },
+    {
+      "id": "application_identity_group_15",
+      "name": "Application Identity Group 15"
+    },
+    {
+      "id": "application_identity_group_16",
+      "name": "Application Identity Group 16"
+    },
+    {
+      "id": "application_identity_group_17",
+      "name": "Application Identity Group 17"
+    },
+    {
+      "id": "application_identity_group_18",
+      "name": "Application Identity Group 18"
+    },
+    {
+      "id": "application_identity_group_19",
+      "name": "Application Identity Group 19"
+    },
+    {
+      "id": "application_identity_group_20",
+      "name": "Application Identity Group 20"
+    },
+    {
+      "id": "application_identity_group_21",
+      "name": "Application Identity Group 21"
+    },
+    {
+      "id": "application_identity_group_22",
+      "name": "Application Identity Group 22"
+    },
+    {
+      "id": "application_identity_group_23",
+      "name": "Application Identity Group 23"
+    },
+    {
+      "id": "application_identity_group_24",
+      "name": "Application Identity Group 24"
+    },
+    {
+      "id": "application_identity_group_25",
+      "name": "Application Identity Group 25"
+    },
+    {
+      "id": "application_identity_group_26",
+      "name": "Application Identity Group 26"
+    },
+    {
+      "id": "application_identity_group_27",
+      "name": "Application Identity Group 27"
+    },
+    {
+      "id": "application_identity_group_28",
+      "name": "Application Identity Group 28"
+    },
+    {
+      "id": "application_identity_group_29",
+      "name": "Application Identity Group 29"
+    },
+    {
+      "id": "application_identity_group_30",
+      "name": "Application Identity Group 30"
+    },
+    {
+      "id": "application_identity_group_31",
+      "name": "Application Identity Group 31"
+    },
+    {
+      "id": "application_identity_group_32",
+      "name": "Application Identity Group 32"
+    },
+    {
+      "id": "application_identity_group_33",
+      "name": "Application Identity Group 33"
+    },
+    {
+      "id": "application_identity_group_34",
+      "name": "Application Identity Group 34"
+    },
+    {
+      "id": "application_identity_group_35",
+      "name": "Application Identity Group 35"
+    },
+    {
+      "id": "application_identity_group_36",
+      "name": "Application Identity Group 36"
+    },
+    {
+      "id": "application_identity_group_37",
+      "name": "Application Identity Group 37"
+    },
+    {
+      "id": "application_identity_group_38",
+      "name": "Application Identity Group 38"
+    },
+    {
+      "id": "application_identity_group_39",
+      "name": "Application Identity Group 39"
+    },
+    {
+      "id": "application_identity_group_40",
+      "name": "Application Identity Group 40"
+    },
+    {
+      "id": "application_identity_group_41",
+      "name": "Application Identity Group 41"
+    },
+    {
+      "id": "application_identity_group_42",
+      "name": "Application Identity Group 42"
+    },
+    {
+      "id": "application_identity_group_43",
+      "name": "Application Identity Group 43"
+    },
+    {
+      "id": "application_identity_group_44",
+      "name": "Application Identity Group 44"
+    },
+    {
+      "id": "application_identity_group_45",
+      "name": "Application Identity Group 45"
+    },
+    {
+      "id": "application_identity_group_46",
+      "name": "Application Identity Group 46"
+    },
+    {
+      "id": "application_identity_group_47",
+      "name": "Application Identity Group 47"
+    },
+    {
+      "id": "application_identity_group_48",
+      "name": "Application Identity Group 48"
+    },
+    {
+      "id": "application_identity_group_49",
+      "name": "Application Identity Group 49"
+    },
+    {
+      "id": "application_identity_group_50",
+      "name": "Application Identity Group 50"
+    },
+    {
+      "id": "application_identity_group_51",
+      "name": "Application Identity Group 51"
+    },
+    {
+      "id": "application_identity_group_52",
+      "name": "Application Identity Group 52"
+    },
+    {
+      "id": "application_identity_group_53",
+      "name": "Application Identity Group 53"
+    },
+    {
+      "id": "application_identity_group_54",
+      "name": "Application Identity Group 54"
+    },
+    {
+      "id": "application_identity_group_55",
+      "name": "Application Identity Group 55"
+    },
+    {
+      "id": "application_identity_group_56",
+      "name": "Application Identity Group 56"
+    },
+    {
+      "id": "application_identity_group_57",
+      "name": "Application Identity Group 57"
+    },
+    {
+      "id": "application_identity_group_58",
+      "name": "Application Identity Group 58"
+    },
+    {
+      "id": "application_identity_group_59",
+      "name": "Application Identity Group 59"
+    },
+    {
+      "id": "application_identity_group_60",
+      "name": "Application Identity Group 60"
+    },
+    {
+      "id": "application_identity_group_61",
+      "name": "Application Identity Group 61"
+    },
+    {
+      "id": "application_identity_group_62",
+      "name": "Application Identity Group 62"
+    },
+    {
+      "id": "application_identity_group_63",
+      "name": "Application Identity Group 63"
+    },
+    {
+      "id": "application_identity_group_64",
+      "name": "Application Identity Group 64"
+    },
+    {
+      "id": "application_identity_group_65",
+      "name": "Application Identity Group 65"
+    },
+    {
+      "id": "application_identity_group_66",
+      "name": "Application Identity Group 66"
+    },
+    {
+      "id": "application_identity_group_67",
+      "name": "Application Identity Group 67"
+    },
+    {
+      "id": "application_identity_group_68",
+      "name": "Application Identity Group 68"
+    },
+    {
+      "id": "application_identity_group_69",
+      "name": "Application Identity Group 69"
+    },
+    {
+      "id": "application_identity_group_70",
+      "name": "Application Identity Group 70"
+    },
+    {
+      "id": "application_identity_group_71",
+      "name": "Application Identity Group 71"
+    },
+    {
+      "id": "application_identity_group_72",
+      "name": "Application Identity Group 72"
+    },
+    {
+      "id": "application_identity_group_73",
+      "name": "Application Identity Group 73"
+    },
+    {
+      "id": "application_identity_group_74",
+      "name": "Application Identity Group 74"
+    },
+    {
+      "id": "application_identity_group_75",
+      "name": "Application Identity Group 75"
+    },
+    {
+      "id": "application_identity_group_76",
+      "name": "Application Identity Group 76"
+    },
+    {
+      "id": "application_identity_group_77",
+      "name": "Application Identity Group 77"
+    },
+    {
+      "id": "application_identity_group_78",
+      "name": "Application Identity Group 78"
+    },
+    {
+      "id": "application_identity_group_79",
+      "name": "Application Identity Group 79"
+    },
+    {
+      "id": "application_identity_group_80",
+      "name": "Application Identity Group 80"
+    },
+    {
+      "id": "application_identity_group_81",
+      "name": "Application Identity Group 81"
+    },
+    {
+      "id": "application_identity_group_82",
+      "name": "Application Identity Group 82"
+    },
+    {
+      "id": "application_identity_group_83",
+      "name": "Application Identity Group 83"
+    },
+    {
+      "id": "application_identity_group_84",
+      "name": "Application Identity Group 84"
+    },
+    {
+      "id": "application_identity_group_85",
+      "name": "Application Identity Group 85"
+    },
+    {
+      "id": "application_identity_group_86",
+      "name": "Application Identity Group 86"
+    },
+    {
+      "id": "application_identity_group_87",
+      "name": "Application Identity Group 87"
+    },
+    {
+      "id": "application_identity_group_88",
+      "name": "Application Identity Group 88"
+    },
+    {
+      "id": "application_identity_group_89",
+      "name": "Application Identity Group 89"
+    },
+    {
+      "id": "application_identity_group_90",
+      "name": "Application Identity Group 90"
+    },
+    {
+      "id": "application_identity_group_91",
+      "name": "Application Identity Group 91"
+    },
+    {
+      "id": "application_identity_group_92",
+      "name": "Application Identity Group 92"
+    },
+    {
+      "id": "application_identity_group_93",
+      "name": "Application Identity Group 93"
+    },
+    {
+      "id": "application_identity_group_94",
+      "name": "Application Identity Group 94"
+    },
+    {
+      "id": "application_identity_group_95",
+      "name": "Application Identity Group 95"
+    },
+    {
+      "id": "application_identity_group_96",
+      "name": "Application Identity Group 96"
+    },
+    {
+      "id": "application_identity_group_97",
+      "name": "Application Identity Group 97"
+    },
+    {
+      "id": "application_identity_group_98",
+      "name": "Application Identity Group 98"
+    },
+    {
+      "id": "application_identity_group_99",
+      "name": "Application Identity Group 99"
+    },
+    {
+      "id": "application_identity_group_100",
+      "name": "Application Identity Group 100"
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "items": [
+    {
+      "id": "bms_sources_1",
+      "name": "BMS Source 1"
+    },
+    {
+      "id": "bms_sources_2",
+      "name": "BMS Source 2"
+    },
+    {
+      "id": "bms_sources_3",
+      "name": "BMS Source 3"
+    },
+    {
+      "id": "bms_sources_4",
+      "name": "BMS Source 4"
+    },
+    {
+      "id": "bms_sources_5",
+      "name": "BMS Source 5"
+    },
+    {
+      "id": "bms_sources_6",
+      "name": "BMS Source 6"
+    },
+    {
+      "id": "bms_sources_7",
+      "name": "BMS Source 7"
+    },
+    {
+      "id": "bms_sources_8",
+      "name": "BMS Source 8"
+    },
+    {
+      "id": "bms_sources_9",
+      "name": "BMS Source 9"
+    },
+    {
+      "id": "bms_sources_10",
+      "name": "BMS Source 10"
+    },
+    {
+      "id": "bms_sources_11",
+      "name": "BMS Source 11"
+    },
+    {
+      "id": "bms_sources_12",
+      "name": "BMS Source 12"
+    },
+    {
+      "id": "bms_sources_13",
+      "name": "BMS Source 13"
+    },
+    {
+      "id": "bms_sources_14",
+      "name": "BMS Source 14"
+    },
+    {
+      "id": "bms_sources_15",
+      "name": "BMS Source 15"
+    },
+    {
+      "id": "bms_sources_16",
+      "name": "BMS Source 16"
+    },
+    {
+      "id": "bms_sources_17",
+      "name": "BMS Source 17"
+    },
+    {
+      "id": "bms_sources_18",
+      "name": "BMS Source 18"
+    },
+    {
+      "id": "bms_sources_19",
+      "name": "BMS Source 19"
+    },
+    {
+      "id": "bms_sources_20",
+      "name": "BMS Source 20"
+    },
+    {
+      "id": "bms_sources_21",
+      "name": "BMS Source 21"
+    },
+    {
+      "id": "bms_sources_22",
+      "name": "BMS Source 22"
+    },
+    {
+      "id": "bms_sources_23",
+      "name": "BMS Source 23"
+    },
+    {
+      "id": "bms_sources_24",
+      "name": "BMS Source 24"
+    },
+    {
+      "id": "bms_sources_25",
+      "name": "BMS Source 25"
+    },
+    {
+      "id": "bms_sources_26",
+      "name": "BMS Source 26"
+    },
+    {
+      "id": "bms_sources_27",
+      "name": "BMS Source 27"
+    },
+    {
+      "id": "bms_sources_28",
+      "name": "BMS Source 28"
+    },
+    {
+      "id": "bms_sources_29",
+      "name": "BMS Source 29"
+    },
+    {
+      "id": "bms_sources_30",
+      "name": "BMS Source 30"
+    },
+    {
+      "id": "bms_sources_31",
+      "name": "BMS Source 31"
+    },
+    {
+      "id": "bms_sources_32",
+      "name": "BMS Source 32"
+    },
+    {
+      "id": "bms_sources_33",
+      "name": "BMS Source 33"
+    },
+    {
+      "id": "bms_sources_34",
+      "name": "BMS Source 34"
+    },
+    {
+      "id": "bms_sources_35",
+      "name": "BMS Source 35"
+    },
+    {
+      "id": "bms_sources_36",
+      "name": "BMS Source 36"
+    },
+    {
+      "id": "bms_sources_37",
+      "name": "BMS Source 37"
+    },
+    {
+      "id": "bms_sources_38",
+      "name": "BMS Source 38"
+    },
+    {
+      "id": "bms_sources_39",
+      "name": "BMS Source 39"
+    },
+    {
+      "id": "bms_sources_40",
+      "name": "BMS Source 40"
+    },
+    {
+      "id": "bms_sources_41",
+      "name": "BMS Source 41"
+    },
+    {
+      "id": "bms_sources_42",
+      "name": "BMS Source 42"
+    },
+    {
+      "id": "bms_sources_43",
+      "name": "BMS Source 43"
+    },
+    {
+      "id": "bms_sources_44",
+      "name": "BMS Source 44"
+    },
+    {
+      "id": "bms_sources_45",
+      "name": "BMS Source 45"
+    },
+    {
+      "id": "bms_sources_46",
+      "name": "BMS Source 46"
+    },
+    {
+      "id": "bms_sources_47",
+      "name": "BMS Source 47"
+    },
+    {
+      "id": "bms_sources_48",
+      "name": "BMS Source 48"
+    },
+    {
+      "id": "bms_sources_49",
+      "name": "BMS Source 49"
+    },
+    {
+      "id": "bms_sources_50",
+      "name": "BMS Source 50"
+    },
+    {
+      "id": "bms_sources_51",
+      "name": "BMS Source 51"
+    },
+    {
+      "id": "bms_sources_52",
+      "name": "BMS Source 52"
+    },
+    {
+      "id": "bms_sources_53",
+      "name": "BMS Source 53"
+    },
+    {
+      "id": "bms_sources_54",
+      "name": "BMS Source 54"
+    },
+    {
+      "id": "bms_sources_55",
+      "name": "BMS Source 55"
+    },
+    {
+      "id": "bms_sources_56",
+      "name": "BMS Source 56"
+    },
+    {
+      "id": "bms_sources_57",
+      "name": "BMS Source 57"
+    },
+    {
+      "id": "bms_sources_58",
+      "name": "BMS Source 58"
+    },
+    {
+      "id": "bms_sources_59",
+      "name": "BMS Source 59"
+    },
+    {
+      "id": "bms_sources_60",
+      "name": "BMS Source 60"
+    },
+    {
+      "id": "bms_sources_61",
+      "name": "BMS Source 61"
+    },
+    {
+      "id": "bms_sources_62",
+      "name": "BMS Source 62"
+    },
+    {
+      "id": "bms_sources_63",
+      "name": "BMS Source 63"
+    },
+    {
+      "id": "bms_sources_64",
+      "name": "BMS Source 64"
+    },
+    {
+      "id": "bms_sources_65",
+      "name": "BMS Source 65"
+    },
+    {
+      "id": "bms_sources_66",
+      "name": "BMS Source 66"
+    },
+    {
+      "id": "bms_sources_67",
+      "name": "BMS Source 67"
+    },
+    {
+      "id": "bms_sources_68",
+      "name": "BMS Source 68"
+    },
+    {
+      "id": "bms_sources_69",
+      "name": "BMS Source 69"
+    },
+    {
+      "id": "bms_sources_70",
+      "name": "BMS Source 70"
+    },
+    {
+      "id": "bms_sources_71",
+      "name": "BMS Source 71"
+    },
+    {
+      "id": "bms_sources_72",
+      "name": "BMS Source 72"
+    },
+    {
+      "id": "bms_sources_73",
+      "name": "BMS Source 73"
+    },
+    {
+      "id": "bms_sources_74",
+      "name": "BMS Source 74"
+    },
+    {
+      "id": "bms_sources_75",
+      "name": "BMS Source 75"
+    },
+    {
+      "id": "bms_sources_76",
+      "name": "BMS Source 76"
+    },
+    {
+      "id": "bms_sources_77",
+      "name": "BMS Source 77"
+    },
+    {
+      "id": "bms_sources_78",
+      "name": "BMS Source 78"
+    },
+    {
+      "id": "bms_sources_79",
+      "name": "BMS Source 79"
+    },
+    {
+      "id": "bms_sources_80",
+      "name": "BMS Source 80"
+    },
+    {
+      "id": "bms_sources_81",
+      "name": "BMS Source 81"
+    },
+    {
+      "id": "bms_sources_82",
+      "name": "BMS Source 82"
+    },
+    {
+      "id": "bms_sources_83",
+      "name": "BMS Source 83"
+    },
+    {
+      "id": "bms_sources_84",
+      "name": "BMS Source 84"
+    },
+    {
+      "id": "bms_sources_85",
+      "name": "BMS Source 85"
+    },
+    {
+      "id": "bms_sources_86",
+      "name": "BMS Source 86"
+    },
+    {
+      "id": "bms_sources_87",
+      "name": "BMS Source 87"
+    },
+    {
+      "id": "bms_sources_88",
+      "name": "BMS Source 88"
+    },
+    {
+      "id": "bms_sources_89",
+      "name": "BMS Source 89"
+    },
+    {
+      "id": "bms_sources_90",
+      "name": "BMS Source 90"
+    },
+    {
+      "id": "bms_sources_91",
+      "name": "BMS Source 91"
+    },
+    {
+      "id": "bms_sources_92",
+      "name": "BMS Source 92"
+    },
+    {
+      "id": "bms_sources_93",
+      "name": "BMS Source 93"
+    },
+    {
+      "id": "bms_sources_94",
+      "name": "BMS Source 94"
+    },
+    {
+      "id": "bms_sources_95",
+      "name": "BMS Source 95"
+    },
+    {
+      "id": "bms_sources_96",
+      "name": "BMS Source 96"
+    },
+    {
+      "id": "bms_sources_97",
+      "name": "BMS Source 97"
+    },
+    {
+      "id": "bms_sources_98",
+      "name": "BMS Source 98"
+    },
+    {
+      "id": "bms_sources_99",
+      "name": "BMS Source 99"
+    },
+    {
+      "id": "bms_sources_100",
+      "name": "BMS Source 100"
+    }
+  ]
+}
